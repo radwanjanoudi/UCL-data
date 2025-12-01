@@ -1,6 +1,6 @@
 player_name,club,position,minutes_played,match_played,goals,assists,distance_covered
 Courtois,Real Madrid,Goalkeeper,1230,13,0,0,64.2
-Vinícius Júnior,Real Madrid,Forward,1199,13,4,6,133
+Vinícius Júnior,Real Madrid,Forward,1199,13,4,6,133.0
 Benzema,Real Madrid,Forward,1106,12,15,1,121.5
 Modrić,Real Madrid,Midfielder,1077,13,0,4,124.5
 Éder Militão,Real Madrid,Defender,1076,12,0,0,110.4
@@ -25,7 +25,7 @@ Vallejo,Real Madrid,Defender,8,2,0,0,1.5
 Bale,Real Madrid,Forward,7,2,0,0,2.2
 Blanco,Real Madrid,Midfielder,6,1,0,0,1.3
 Alisson Becker,Liverpool,Goalkeeper,1170,13,0,0,68.8
-Salah,Liverpool,Forward,1008,13,8,2,112
+Salah,Liverpool,Forward,1008,13,8,2,112.0
 Fabinho,Liverpool,Midfielder,849,13,1,0,105.5
 Robertson,Liverpool,Defender,826,10,0,2,97.7
 Mané,Liverpool,Midfielder,822,13,5,1,100.3
@@ -43,7 +43,7 @@ Firmino,Liverpool,Midfielder,323,7,5,0,43
 Oxlade-Chamberlain,Liverpool,Midfielder,300,6,0,1,38.6
 Gomez,Liverpool,Defender,245,7,0,0,30.4
 Minamino,Liverpool,Forward,215,4,0,0,29.7
-Milner,Liverpool,Midfielder,211,8,0,1,32
+Milner,Liverpool,Midfielder,211,8,0,1,32.0
 Origi,Liverpool,Forward,187,7,1,1,23.8
 Jones,Liverpool,Midfielder,185,4,0,2,27.1
 N. Williams,Liverpool,Defender,180,3,0,0,23.5
@@ -75,7 +75,7 @@ Reinildo,LOSC,Defender,816,10,0,0,88.8
 Neuer,Bayern,Goalkeeper,810,9,0,1,51.2
 Weigl,Benfica,Midfielder,810,9,0,0,112
 Otamendi,Benfica,Defender,810,9,0,0,91.2
-Sané,Bayern,Midfielder,798,10,6,6,94
+Sané,Bayern,Midfielder,798,10,6,6,94.0
 Laporte,Man. City,Defender,794,9,0,0,90.9
 Müller,Bayern,Forward,778,10,4,3,98.5
 Pavard,Bayern,Defender,764,10,0,1,96.7
@@ -87,7 +87,7 @@ Martínez,Ajax,Defender,720,8,0,1,83.3
 Marquinhos,Paris,Defender,720,8,0,1,78.5
 Fonte,LOSC,Defender,720,8,0,0,81.3
 Köhn,Salzburg,Goalkeeper,720,8,0,0,43.8
-Handanovič,Inter,Goalkeeper,720,8,0,0,32
+Handanovič,Inter,Goalkeeper,720,8,0,0,32.0
 Hakimi,Paris,Defender,718,8,0,0,85.3
 Ulmer,Salzburg,Defender,716,8,0,0,84.2
 Gilberto,Benfica,Defender,715,9,1,0,85.7
@@ -96,7 +96,7 @@ Rafa Silva,Benfica,Forward,704,9,1,1,85.7
 Gravenberch,Ajax,Midfielder,703,8,0,1,89.1
 Kimmich,Bayern,Midfielder,702,8,0,0,96.4
 Marcos Llorente,Atlético,Midfielder,700,9,0,0,83.6
-Azpilicueta,Chelsea,Defender,679,9,1,1,82
+Azpilicueta,Chelsea,Defender,679,9,1,1,82.0
 David,LOSC,Forward,679,8,3,0,86.1
 Mbappé,Paris,Forward,673,8,6,4,65.2
 Havertz,Chelsea,Midfielder,672,9,3,0,86.3
@@ -116,7 +116,7 @@ Brozović,Inter,Midfielder,635,8,1,0,89.3
 Coman,Bayern,Forward,632,9,2,3,76.3
 Messi,Paris,Forward,630,7,5,0,58.7
 Tadić,Ajax,Forward,630,7,2,2,78.9
-André,LOSC,Midfielder,630,7,0,0,80
+André,LOSC,Midfielder,630,7,0,0,80.0
 Kimpembe,Paris,Defender,630,7,0,0,64.4
 Adán,Sporting CP,Goalkeeper,630,7,0,0,36.3
 Szczęsny,Juventus,Goalkeeper,630,7,0,0,31.4
@@ -146,7 +146,7 @@ L. Hernández,Bayern,Defender,572,8,0,0,69.4
 J. Timber,Ajax,Midfielder,570,8,0,0,64.9
 Jorginho,Chelsea,Midfielder,561,8,2,2,68.7
 Gonçalo Inácio,Sporting CP,Defender,561,7,0,1,60.7
-Álvarez,Ajax,Midfielder,558,7,0,0,73
+Álvarez,Ajax,Midfielder,558,7,0,0,73.0
 Alex Sandro,Juventus,Defender,553,7,1,0,69
 Alonso,Chelsea,Defender,548,8,0,0,68.9
 Everton,Benfica,Forward,543,9,0,0,67.1
@@ -162,9 +162,9 @@ Fernando Costanza,Sheriff,Defender,540,6,0,0,64.6
 Dodô,Shakhtar Donetsk,Defender,540,6,0,0,64.5
 Barrios,Zenit,Midfielder,540,6,0,0,61.5
 Lacroix,Wolfsburg,Defender,540,6,0,0,61.3
-Hendry,Club Brugge,Defender,540,6,0,0,61
+Hendry,Club Brugge,Defender,540,6,0,0,61.0
 Arboleda,Sheriff,Defender,540,6,0,0,53.3
-Dulanto,Sheriff,Defender,540,6,0,0,53
+Dulanto,Sheriff,Defender,540,6,0,0,53.0
 Bounou,Sevilla,Goalkeeper,540,6,0,0,37.2
 Kobel,Dortmund,Goalkeeper,540,6,0,0,35.4
 Mignolet,Club Brugge,Goalkeeper,540,6,0,0,33.2
@@ -172,7 +172,7 @@ Musso,Atalanta,Goalkeeper,540,6,0,0,32.7
 Pasveer,Ajax,Goalkeeper,540,6,0,0,32.7
 Grbić,LOSC,Goalkeeper,540,6,0,0,31.9
 Diogo Costa,Porto,Goalkeeper,540,6,0,0,31.7
-Ter Stegen,Barcelona,Goalkeeper,540,6,0,0,29
+Ter Stegen,Barcelona,Goalkeeper,540,6,0,0,29.0
 Locatelli,Juventus,Midfielder,539,7,0,0,69.8
 Diego Carlos,Sevilla,Defender,539,6,0,0,58.7
 Mount,Chelsea,Midfielder,538,7,1,2,60.3
@@ -193,7 +193,7 @@ Freuler,Atalanta,Midfielder,526,6,1,1,71.6
 Depay,Barcelona,Forward,525,6,0,0,64.4
 Gerard Moreno,Villarreal,Forward,524,7,2,4,65.7
 Lo Celso,Villarreal,Midfielder,524,6,0,0,68.4
-F. de Jong,Barcelona,Midfielder,523,6,0,0,69
+F. de Jong,Barcelona,Midfielder,523,6,0,0,69.0
 Morata,Juventus,Forward,520,7,2,0,60.2
 Bruno Fernandes,Man. United,Midfielder,520,7,0,7,58.4
 Griezmann,Atlético,Forward,518,9,4,2,64.3
@@ -207,7 +207,7 @@ Aebischer,Young Boys,Midfielder,504,6,0,1,53.9
 Bellingham,Dortmund,Midfielder,503,6,1,3,62.3
 Zinchenko,Man. City,Defender,501,8,0,1,64.4
 De Ketelaere,Club Brugge,Forward,500,6,0,1,58.5
-Čolak,Malmö,Forward,500,6,0,0,63
+Čolak,Malmö,Forward,500,6,0,0,63.0
 Reus,Dortmund,Midfielder,499,6,3,1,62.7
 Rakitskyy,Zenit,Defender,497,6,1,2,52.3
 Barella,Inter,Midfielder,496,6,0,0,65.4
@@ -746,3 +746,4 @@ Rodrigo Ribeiro,Sporting CP,Forward,1,1,0,0,0.7
 Cojocari,Sheriff,Defender,1,1,0,0,0.5
 Maouassa,Club Brugge,Defender,1,1,0,0,0.2
 Zesiger,Young Boys,Defender,1,1,0,0,-
+
